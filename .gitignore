@@ -1,0 +1,11 @@
+
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+.vs/
+.env
+.env.*
+!.env.example
+
+backend/AI-LMS.API/appsettings.json
